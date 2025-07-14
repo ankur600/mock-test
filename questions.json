@@ -84,9 +84,9 @@
   {"image":"images/83.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":3},
   {"image":"images/84.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":3},
   {"image":"images/85.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
-  {"image":"images/86.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":0},
+  {"image":"images/86.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4},
   {"image":"images/87.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4},
-  {"image":"images/88.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4},
+  {"image":"images/88.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
   {"image":"images/89.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
   {"image":"images/90.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":1},
   {"image":"images/91.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
@@ -141,13 +141,13 @@
   {"image":"images 2/140.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
   {"image":"images 2/141.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":0},
   {"image":"images 2/142.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
-  {"image":"images 2/143.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
+  {"image":"images 2/143.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":1},
   {"image":"images 2/144.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":0},
   {"image":"images 2/145.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
   {"image":"images 2/146.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4},
   {"image":"images 2/147.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4},
   {"image":"images 2/148.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":0},
   {"image":"images 2/149.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":1},
-  {"image":"images 2/150.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4}
+  {"image":"images 2/150.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":1}
 
 ]
