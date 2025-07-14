@@ -6,16 +6,24 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div id="container">
+  <div id="start-screen">
     <h1>Mock Test</h1>
-    <div id="timer">Time left: 60s</div>
-   <div id="quiz-box">
-  <img id="question-image" src="" alt="Question image" style="max-width: 100%; margin-bottom: 20px;" />
-  <ul id="options"></ul>
-  <button id="next-btn">Next</button>
-</div>
-    <div id="result" style="display:none;"></div>
+    <button id="start-btn">Start Test</button>
   </div>
+
+  <div id="quiz-box" style="display: none;">
+    <div id="timer-container">
+      <span id="timer">Time left: 03:00:00</span>
+      <button id="pause-btn">Pause</button>
+    </div>
+    <div id="question-counter" style="margin-bottom: 10px; font-weight: bold;"></div>
+    <img id="question-image" src="" alt="Question image" style="max-width: 100%; margin-bottom: 20px;" />
+    <ul id="options"></ul>
+    <button id="next-btn">Next</button>
+  </div>
+
+  <div id="result" style="display: none;"></div>
+
   <script src="script.js"></script>
 </body>
 </html>
