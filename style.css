@@ -27,4 +27,13 @@ body {
   li {
     margin-bottom: 6px;
   }
-  
+  #timer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+  #question-counter {
+  font-size: 18px;
+  color: #333;
+}
