@@ -35,10 +35,16 @@ function loadQuestion() {
   optionsEl.innerHTML = "";
   q.options.forEach((opt, idx) => {
     const li = document.createElement("li");
-    li.innerHTML = `<label><input type="radio" name="opt" value="${idx}"> ${opt}</label>`;
-    optionsEl.appendChild(li);
+li.innerHTML = `
+  <label style="cursor: pointer; display: block; padding: 8px; border-radius: 6px;">
+    <input type="radio" name="opt" value="${idx}" style="margin-right: 10px;" />
+    ${opt}
+  </label>
+`;    optionsEl.appendChild(li);
   });
 }
+
+
 
 document.getElementById("next-btn").addEventListener("click", () => {
   const selected = document.querySelector("input[name='opt']:checked");
