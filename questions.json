@@ -106,6 +106,7 @@
 {"image":"images/90.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
 
 
+<<<<<<< HEAD
 {"image":"images/91.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
 {"image":"images/92.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":1},
 {"image":"images/93.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":1},
@@ -116,6 +117,18 @@
 {"image":"images/98.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":0},
 {"image":"images 2/99.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
 {"image":"images 2/100.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4},
+=======
+  {"image":"images/91.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4},
+  {"image":"images/92.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":3},
+  {"image":"images/93.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":3},
+  {"image":"images/94.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":0},
+  {"image":"images/95.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":0},
+  {"image":"images/96.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":1},
+  {"image":"images/97.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":1},
+  {"image":"images/98.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4},
+  {"image":"images/99.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":4}  ,
+  {"image":"images 2/100.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
+>>>>>>> 5f6ba12005778ff86d97c9d3ae54d1ff6f44eb1c
 
 
 {"image":"images 2/101.png","options":["Option A","Option B","Option C","Option D","Option E"],"answer":2},
